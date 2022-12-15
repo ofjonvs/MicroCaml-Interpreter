@@ -1,0 +1,45 @@
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Start test public:0:public_nothing.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Test public:0:public_nothing is successful.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: End test public:0:public_nothing.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Start test public:4:public_expr_apply.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Test public:4:public_expr_apply is successful.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: End test public:4:public_expr_apply.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Start test public:5:public_expr_double_fun.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Test public:5:public_expr_double_fun is successful.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: End test public:5:public_expr_double_fun.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Start test public:7:public_expr_let_fun.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Test public:7:public_expr_let_fun is successful.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: End test public:7:public_expr_let_fun.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Start test public:9:public_expr_nested_let.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Test public:9:public_expr_nested_let is successful.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: End test public:9:public_expr_nested_let.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Start test public:11:public_expr_simple_concat.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Test public:11:public_expr_simple_concat is successful.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: End test public:11:public_expr_simple_concat.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Start test public:13:public_expr_simple_mult.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Test public:13:public_expr_simple_mult is successful.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: End test public:13:public_expr_simple_mult.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Start test public:15:public_expr_simple_sum.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Test public:15:public_expr_simple_sum is successful.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: End test public:15:public_expr_simple_sum.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Start test public:17:public_expr_single_bool.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Test public:17:public_expr_single_bool is successful.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: End test public:17:public_expr_single_bool.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Start test public:19:public_expr_single_if.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Test public:19:public_expr_single_if is successful.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: End test public:19:public_expr_single_if.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Start test public:21:public_expr_single_notequal.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Test public:21:public_expr_single_notequal is successful.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: End test public:21:public_expr_single_notequal.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Start test public:23:public_expr_single_number.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Test public:23:public_expr_single_number is successful.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: End test public:23:public_expr_single_number.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Start test public:25:public_expr_single_string.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Test public:25:public_expr_single_string is successful.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: End test public:25:public_expr_single_string.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Start test public:27:public_mutop_factorial.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Test public:27:public_mutop_factorial is successful.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: End test public:27:public_mutop_factorial.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Start test public:29:public_expr_shadow.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: Test public:29:public_expr_shadow is successful.
+2022-11-28T01:34:01+00:00 Jonas-mac#01 I: End test public:29:public_expr_shadow.
